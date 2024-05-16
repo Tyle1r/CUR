@@ -1,0 +1,3 @@
+[submodule "CUR_BatteryHeatTransfer"]
+	path = CUR_BatteryHeatTransfer
+	url = https://github.com/Tyle1r/CUR_BatteryHeatTransfer.git
